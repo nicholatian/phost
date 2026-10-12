@@ -1,6 +1,6 @@
 # Ph&omacr;st
 
-This is Alexander Nicholi&rsquo;s hotography post-processing workflow.
+This is Alexander Nicholi&rsquo;s photography post-processing workflow.
 
 The Sony&reg; &alpha;7R IV produces Sony RAW images (`.arw`) that are
 post-produced in either Sony&rsquo;s [Imaging Edge Desktop][1] program,
